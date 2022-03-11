@@ -1,0 +1,31 @@
+body{
+    background-color:#ffffff ;
+    background-image: url(../webapp.jpg);
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+}
+.qPanel{
+    font-size : 14pt;
+    font-weight: bold;
+}
+.ques{
+    font-size : 18pt;
+    font-weight: bold;
+}
+.nxtBtn{
+    position: relative ;
+    right : 10px ;
+    float: left;
+    border:none ;
+    font-size: 18pt ;
+    font-weight: bold;
+    background-color: #f0daeb  ;
+    color: black ;
+    width: 80px ;
+    height: 35px ;
+    top:50px
+}
